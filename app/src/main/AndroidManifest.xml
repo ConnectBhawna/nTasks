@@ -15,19 +15,22 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BKKRHT">
         <activity
-            android:name=".splashScreen"
-            android:exported="false" />
+            android:name=".ui.activity.splashScreen"
+            android:exported="true">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
         <activity
             android:name=".ui.activity.BhaiActivity"
             android:exported="false" />
         <activity
             android:name=".ui.activity.MainActivity"
             android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
 
         <service

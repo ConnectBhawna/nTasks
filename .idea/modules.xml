@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BKKRHT.iml" filepath="$PROJECT_DIR$/.idea/modules/BKKRHT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BKKRHT.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BKKRHT.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BKKRHT.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BKKRHT.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BKKRHT.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BKKRHT.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BKKRHT.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BKKRHT.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nTasks.iml" filepath="$PROJECT_DIR$/.idea/modules/nTasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/nTasks.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/nTasks.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/nTasks.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/nTasks.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/nTasks.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/nTasks.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/nTasks.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/nTasks.app.unitTest.iml" />
     </modules>
   </component>
 </project>
