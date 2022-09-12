@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">nTask</string>
+    <string name="accessibility_service_name">Apply Permission</string>
+    <string name="accessibility_service_description">Service required to remove your disctraction when you use different applications.</string>
+    <string name="alert_message">To let Aman Bhaiya remove your distraction, turn on the service for this application</string>
+    <string name="alert_enable">Enable</string>
+    <string name="alert_title">Service Off!</string>
+    <string name="kyu_bhai">As a student do not waste time in Doing this</string>
+    <string name="app_title">nTasks is here, than no waste of time is here</string>
+    <string name="alert_miui_title">Miui Detected!</string>
+    <string name="alert_miui_message">Miui requires an additional permission to work.\nOn the App\'s Information page, please go to \'Other Permissions\' and enable \'Display Pop Up while in background\'</string>
+    <string name="toast_miui_alert"><![CDATA[Go to Other Permissions > Display Pop Up while in background]]></string>
+</resources>
